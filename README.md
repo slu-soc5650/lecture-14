@@ -1,6 +1,6 @@
 lecture-14 <img src="https://slu-soc5650.github.io/images/logo.png" align="right" />
 ===========================================================
-[![](https://img.shields.io/badge/semester-Spring%2C%202017-blue.svg)](https://github.com/slu-soc5650/lecture-14)
+[![](https://img.shields.io/badge/semester-spring%202017-orange.svg)](https://github.com/slu-soc5650/lecture-14)
 [![](https://img.shields.io/badge/release-updated-brightgreen.svg)](https://github.com/slu-soc5650/lecture-14)
 [![](https://img.shields.io/github/release/slu-soc5650/lecture-14.svg?label=version)](https://github.com/slu-soc5650/lecture-14/releases)
 [![](https://img.shields.io/github/last-commit/slu-soc5650/lecture-14.svg)](https://github.com/slu-soc5650/lecture-14/commits/master)
